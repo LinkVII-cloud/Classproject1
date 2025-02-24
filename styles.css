@@ -1,0 +1,24 @@
+body {background-color:aqua}
+h1 {color: aliceblue;}
+img {border-style: groove;
+border-width: 1cqmax;
+border-color: black;}
+a {color: aliceblue;}
+#main-nav {
+    background-color: blue;
+    text-align: center;
+    padding: 2cm;
+}
+#main-nav a{
+    font-size: 24px;
+    color: aquamarine;
+    margin:20px
+}
+#main-nav a:hover {
+    text-decoration: underline;
+    color: aliceblue;
+}
+img:hover {
+    border-style: dashed;
+    border-color: khaki;
+}
