@@ -5,13 +5,13 @@ border-width: 1cqmax;
 border-color: black;}
 a {color: aliceblue;}
 #main-nav {
-    background-color: blue;
+    background-color: rgb(0, 255, 221);
     text-align: center;
-    padding: 2cm;
+    padding: 1cm;
 }
 #main-nav a{
     font-size: 24px;
-    color: aquamarine;
+    color: rgb(9, 10, 10);
     margin:20px
 }
 #main-nav a:hover {
